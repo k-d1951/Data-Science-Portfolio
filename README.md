@@ -1,6 +1,5 @@
 # Projects
 
-
 ### Customer Engagement Analytics
 Linear Regression | pandas, numpy, matplotlib, seaborn and sklearn | 98.9% accuracy
 
@@ -12,6 +11,9 @@ Logistic Regression | SVM | Ensemble: Logistic + Bagging Classifier | pandas, nu
 
 ### Link Prediction in Citation Networks
 Random Forest, AdaBoost, Gradient Boosting, Bagging, Decision Trees, KNeighbours, Logistic Regression, Gussian Naive Bayes, LinearDiscriminantAnalysis and QuadraticDiscriminantAnalysis | pandas, numpy, matplotlib, seaborn, sklearn and nltk | 97.35% accuracy
+
+### Top Trending hashtags on Twitter
+Java | Twitter API | WEKA | NLTK | KMeans Clustering | SQL 
 
 ### Youtube Network Analysis 
 Degree Distribution | Clustering Coefficient 
