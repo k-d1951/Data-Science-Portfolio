@@ -9,3 +9,6 @@ AWS Comprehend | Amazon Lambda | AWS DynamoDB | Amazon S3 | Gluonnlp's Customer 
 
 ### NYT Comments Prediction
 Logistic Regression | SVM | Ensemble: Logistic + Bagging Classifier | pandas, numpy, matplotlib and nltk | Webscraping for creating the dataset
+
+### Link Prediction in Citation Networks
+Random Forest, AdaBoost, Gradient Boosting, Bagging, Decision Trees, KNeighbours, Logistic Regression, Gussian Naive Bayes, LinearDiscriminantAnalysis and QuadraticDiscriminantAnalysis | pandas, numpy, matplotlib, seaborn, sklearn and nltk | 97.35% accuracy
