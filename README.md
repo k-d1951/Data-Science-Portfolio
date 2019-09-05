@@ -3,6 +3,9 @@
 ### Customer Engagement Analytics
 Linear Regression | pandas, numpy, matplotlib, seaborn and sklearn | 98.9% accuracy
 
+### Deep Learning
+Word2Vec | Sentence Classification LSTM Keras and BoV Sci-kit learn | Keras, Sequential, LSTM, Embedding, Dense, Activation, Dropout, Logistic Regression and GridSearchCV
+
 ### Link Prediction in Citation Networks
 Random Forest, AdaBoost, Gradient Boosting, Bagging, Decision Trees, KNeighbours, Logistic Regression, Gussian Naive Bayes, LinearDiscriminantAnalysis and QuadraticDiscriminantAnalysis | pandas, numpy, matplotlib, seaborn, sklearn and nltk | 97.35% accuracy
 
