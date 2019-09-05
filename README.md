@@ -9,6 +9,9 @@ Random Forest, AdaBoost, Gradient Boosting, Bagging, Decision Trees, KNeighbours
 ### Movie Recommendation System
 Collaborative filtering | pandas, numpy, matplotlib and seaborn
 
+### NLP Text Classification
+Tokenization | Stop Words + Special characters removal | Stemming | Lemmatization | KNeighbour Classifier | Decision Tree | Random Forest | SVM | News group dataset
+
 ### NYT Comments Prediction
 Logistic Regression | SVM | Ensemble: Logistic + Bagging Classifier | pandas, numpy, matplotlib and nltk | Webscraping for creating the dataset
 
