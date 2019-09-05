@@ -12,3 +12,6 @@ Logistic Regression | SVM | Ensemble: Logistic + Bagging Classifier | pandas, nu
 
 ### Link Prediction in Citation Networks
 Random Forest, AdaBoost, Gradient Boosting, Bagging, Decision Trees, KNeighbours, Logistic Regression, Gussian Naive Bayes, LinearDiscriminantAnalysis and QuadraticDiscriminantAnalysis | pandas, numpy, matplotlib, seaborn, sklearn and nltk | 97.35% accuracy
+
+### Youtube Network Analysis 
+Degree Distribution | Clustering Coefficient 
