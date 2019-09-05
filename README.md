@@ -18,6 +18,9 @@ Logistic Regression | SVM | Ensemble: Logistic + Bagging Classifier | pandas, nu
 ### Sentiment Analysis
 AWS Comprehend | Amazon Lambda | AWS DynamoDB | Amazon S3 | Gluonnlp's Customer Review dataset
 
+### Titanic Survival Prediction
+Missing Value Imputation | Feature Engineering | Variables Conversion | pandas, numpy, sclearn, scipy and seaborn
+
 ### Top Trending hashtags on Twitter
 Java | Twitter API | WEKA | NLTK | KMeans Clustering | SQL 
 
