@@ -28,4 +28,4 @@ Missing Value Imputation | Feature Engineering | Variables Conversion | pandas, 
 Java | Twitter API | WEKA | NLTK | KMeans Clustering | SQL 
 
 ### Youtube Network Analysis 
-Degree Distribution | Clustering Coefficient 
+Degree Distribution | Clustering Coefficient | pandas, numpy, igraph and networkx
