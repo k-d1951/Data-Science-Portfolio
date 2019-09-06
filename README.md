@@ -18,6 +18,9 @@ Tokenization | Stop Words + Special characters removal | Stemming | Lemmatizatio
 ### NYT Comments Prediction
 Logistic Regression | SVM | Ensemble: Logistic + Bagging Classifier | pandas, numpy, matplotlib and nltk | Webscraping for creating the dataset
 
+### RESTful API
+RESTful API using Spyder within Anaconda Navigator | Python Flask JSON and MySQL
+
 ### Sentiment Analysis
 AWS Comprehend | Amazon Lambda | AWS DynamoDB | Amazon S3 | Gluonnlp's Customer Review dataset
 
