@@ -8,7 +8,7 @@ Linear Regression | pandas, numpy, matplotlib, seaborn and sklearn | 98.9% accur
 ### Deep Learning
 Word2Vec | Sentence Classification LSTM Keras and BoV Sci-kit learn | Keras, Sequential, LSTM, Embedding, Dense, Activation, Dropout, Logistic Regression and GridSearchCV
 
-## Flight PAX Time Series
+### Flight PAX Time Series
 Time Series analysis of Flight Passenger using a Multilayer Perceptron | Keras, pandas, numpy and matplotlib
 
 ### Link Prediction in Citation Networks
