@@ -20,21 +20,21 @@ Repository containing data science projects presented in the form of iPython Not
    - Youtube Network Analysis: Degree Distribution | Clustering Coefficient | pandas, numpy, igraph and networkx
  
  - ### Natural Language Processing
-  - Text Classification: Tokenization | Stop Words + Special characters removal | Stemming | Lemmatization | KNeighbour Classifier | Decision Tree | Random Forest | SVM | News group dataset | 81% accuracy
-  - Top Trending hashtags on Twitter: Java | Twitter API | WEKA | NLTK | KMeans Clustering | SQL 
+   - Text Classification: Tokenization | Stop Words + Special characters removal | Stemming | Lemmatization | KNeighbour Classifier | Decision Tree | Random Forest | SVM | News group dataset | 81% accuracy
+   - Top Trending hashtags on Twitter: Java | Twitter API | WEKA | NLTK | KMeans Clustering | SQL 
   
 
  - ### Recommendation Systems
     - Movie Recommendation System: Collaborative filtering | pandas, numpy, matplotlib and seaborn
 
 
+ - ### AWS
+   - Sentiment Analysis: AWS Comprehend | Amazon Lambda | AWS DynamoDB | Amazon S3 | Gluonnlp's Customer Review dataset
+
+ - ### Others
+   - RESTful API: Testing RESTful API using Spyder within Anaconda Navigator | Python Flask JSON and MySQL
 
 
-### RESTful API
-RESTful API using Spyder within Anaconda Navigator | Python Flask JSON and MySQL
-
-### Sentiment Analysis
-AWS Comprehend | Amazon Lambda | AWS DynamoDB | Amazon S3 | Gluonnlp's Customer Review dataset
 
 
 
