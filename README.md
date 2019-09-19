@@ -31,6 +31,8 @@ Repository containing data science projects presented in the form of iPython Not
 
  - ### AWS
    - [Sentiment Analysis](https://github.com/k-d1951/Data-Science-Portfolio/tree/master/Sentiment%20Analysis): Developing a complete end-to-end Cloud Architecture to enable a customer analyse the reviews they recieved on their website using AWS Comprehend | Amazon Lambda | AWS DynamoDB | Amazon S3 | Gluonnlp's Customer Review dataset | bits to be added AWS Athena and AWS QuickSight
+   
+   ![Architecture Diagram](https://github.com/k-d1951/Data-Science-Portfolio/blob/master/Sentiment%20Analysis/Architecture%20Diagram.JPG)
 
  - ### Others
    - [RESTful API](https://github.com/k-d1951/Data-Science-Portfolio/tree/master/RESTful%20API): Testing RESTful API using Spyder within Anaconda Navigator | Python Flask JSON and MySQL
