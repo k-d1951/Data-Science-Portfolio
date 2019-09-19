@@ -10,6 +10,7 @@ Repository containing data science projects presented in the form of iPython Not
 
  - ### Deep Learning
    - [Sentence Classification](https://github.com/k-d1951/Data-Science-Portfolio/tree/master/Deep%20Learning): Word2Vec | Sentence Classification LSTM Keras and BoV Sci-kit learn | Keras, Sequential, LSTM, Embedding, Dense, Activation, Dropout, Logistic Regression and GridSearchCV
+   
 
  - ### Forecasting and Time Series Analysis
    - [Flight PAX Time Series](https://github.com/k-d1951/Data-Science-Portfolio/tree/master/Flight%20PAX%20Time%20Series): Time Series analysis of Flight Passenger using a Multilayer Perceptron | Keras, pandas, numpy and matplotlib
