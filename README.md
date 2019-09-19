@@ -5,7 +5,7 @@ Repository containing data science projects presented in the form of iPython Not
 
 - ### Machine Learning
    - [Customer Engagement Analytics](https://github.com/k-d1951/Data-Science-Portfolio/tree/master/Customer%20Engagement%20Analytics): Linear Regression | pandas, numpy, matplotlib, seaborn and sklearn | 98.9% accuracy
-   - [NYT Comments Prediction](https://github.com/k-d1951/Data-Science-Portfolio/tree/master/NYT%20Comments%20Prediction): Logistic Regression | SVM | Ensemble: Logistic + Bagging Classifier | pandas, numpy, matplotlib and nltk | Webscraping for creating the dataset
+   - [NYT Comments Prediction](https://github.com/k-d1951/Data-Science-Portfolio/tree/master/NYT%20Comments%20Prediction): Predicting how many comments a given New York Times article will recieve based on its characteristics and features | Logistic Regression | SVM | Ensemble: Logistic + Bagging Classifier | pandas, numpy, matplotlib and nltk | Webscraping for creating the dataset
    - [Titanic Survival Prediction](https://github.com/k-d1951/Data-Science-Portfolio/tree/master/Titanic%20Survival%20Prediction)(!): Missing Value Imputation | Feature Engineering | Variables Conversion | pandas, numpy, sclearn, scipy and seaborn
 
  - ### Deep Learning
